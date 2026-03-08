@@ -14,7 +14,28 @@
           "Almak",
           "Gişe"
         ]
-      },{
+      },
+      {
+        "hedef": "dsfgsdfgsdfgsdf",
+        "yasakli": [
+          "Sinema",
+          "Otobüs",
+          "Kağıt",
+          "Almak",
+          "Gişe"
+        ]
+      },
+      {
+        "hedef": "ertwertwert",
+        "yasakli": [
+          "Sinema",
+          "Otobüs",
+          "Kağıt",
+          "Almak",
+          "Gişe"
+        ]
+      },
+      {
         "hedef": "ttttttt",
         "yasakli": [
           "ttttttt",
