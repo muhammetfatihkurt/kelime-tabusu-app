@@ -1,5 +1,20 @@
 [
   {
+    "id": "12323442343243",
+    "name": "Klasik",
+    "colorHex": "FF5A5F",
+    "words": [
+      {
+        "hedef": "Fatih",
+        "yasakli": [
+          "AAAAA",
+          "BBBB",
+          "Kağıt",
+          "Almak",
+          "Gişe"
+        ]
+      },
+  {
     "id": "1",
     "name": "Klasik",
     "colorHex": "FF5A5F",
