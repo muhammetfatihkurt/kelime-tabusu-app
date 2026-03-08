@@ -36,6 +36,26 @@
         ]
       },
       {
+        "hedef": "fatihdila",
+        "yasakli": [
+          "Fatih",
+          "Aydınlık",
+          "Yanmak",
+          "Düğme",
+          "Gece"
+        ]
+      },
+      {
+        "hedef": "dila",
+        "yasakli": [
+          "Fatih",
+          "Aydınlık",
+          "Yanmak",
+          "Düğme",
+          "Gece"
+        ]
+      },
+      {
         "hedef": "ÇORAP",
         "yasakli": [
           "Ayak",
