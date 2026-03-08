@@ -16,6 +16,36 @@
         ]
       },
       {
+        "hedef": "3333333",
+        "yasakli": [
+          "Sinema",
+          "Otobüs",
+          "Kağıt",
+          "Almak",
+          "Gişe"
+        ]
+      },
+      {
+        "hedef": "222222",
+        "yasakli": [
+          "Sinema",
+          "Otobüs",
+          "Kağıt",
+          "Almak",
+          "Gişe"
+        ]
+      },
+      {
+        "hedef": "111111",
+        "yasakli": [
+          "Sinema",
+          "Otobüs",
+          "Kağıt",
+          "Almak",
+          "Gişe"
+        ]
+      },
+      {
         "hedef": "dsfgsdfgsdfgsdf",
         "yasakli": [
           "Sinema",
