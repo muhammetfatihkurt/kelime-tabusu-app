@@ -1,0 +1,3688 @@
+[
+  {
+    "id": "1",
+    "name": "Klasik",
+    "colorHex": "FF5A5F",
+    "words": [
+      {
+        "hedef": "BİLET",
+        "yasakli": [
+          "Sinema",
+          "Otobüs",
+          "Kağıt",
+          "Almak",
+          "Gişe"
+        ]
+      },
+      {
+        "hedef": "LAMBA",
+        "yasakli": [
+          "Işık",
+          "Aydınlık",
+          "Yanmak",
+          "Düğme",
+          "Gece"
+        ]
+      },
+      {
+        "hedef": "ÇORAP",
+        "yasakli": [
+          "Ayak",
+          "Ayakkabı",
+          "Giyinmek",
+          "Kış",
+          "Sıcak"
+        ]
+      },
+      {
+        "hedef": "UÇAK",
+        "yasakli": [
+          "Kanat",
+          "Uçmak",
+          "Pilot",
+          "Havaalanı",
+          "Yolculuk"
+        ]
+      },
+      {
+        "hedef": "CÜZDAN",
+        "yasakli": [
+          "Para",
+          "Çanta",
+          "Kredi Kartı",
+          "Taşıma",
+          "Deri"
+        ]
+      },
+      {
+        "hedef": "YATAK",
+        "yasakli": [
+          "Uyumak",
+          "Yorgan",
+          "Yastık",
+          "Oda",
+          "Rüya"
+        ]
+      },
+      {
+        "hedef": "KALEM",
+        "yasakli": [
+          "Yazmak",
+          "Silgi",
+          "Defter",
+          "Uç",
+          "Kağıt"
+        ]
+      },
+      {
+        "hedef": "GEMİ",
+        "yasakli": [
+          "Deniz",
+          "Kaptan",
+          "Liman",
+          "Yolcu",
+          "Su"
+        ]
+      },
+      {
+        "hedef": "ŞEMSİYE",
+        "yasakli": [
+          "Yağmur",
+          "Islanmak",
+          "Korumak",
+          "Açmak",
+          "Hava"
+        ]
+      },
+      {
+        "hedef": "TERLİK",
+        "yasakli": [
+          "Ayak",
+          "Ev",
+          "Giyinmek",
+          "Yaz",
+          "Plaj"
+        ]
+      },
+      {
+        "hedef": "HAVLU",
+        "yasakli": [
+          "Kurulanmak",
+          "Banyo",
+          "Yüz",
+          "Su",
+          "Islak"
+        ]
+      },
+      {
+        "hedef": "GÜLÜMSEMEK",
+        "yasakli": [
+          "Mutlu",
+          "Diş",
+          "Gülmek",
+          "Yüz",
+          "Sevinç"
+        ]
+      },
+      {
+        "hedef": "CÜZDAN",
+        "yasakli": [
+          "Para",
+          "Çanta",
+          "Kredi Kartı",
+          "Taşıma",
+          "Deri"
+        ]
+      },
+      {
+        "hedef": "AĞAÇ",
+        "yasakli": [
+          "Yaprak",
+          "Dal",
+          "Orman",
+          "Yeşil",
+          "Kök"
+        ]
+      },
+      {
+        "hedef": "ŞAMPUAN",
+        "yasakli": [
+          "Saç",
+          "Yıkamak",
+          "Köpük",
+          "Banyo",
+          "Sabun"
+        ]
+      },
+      {
+        "hedef": "CEP",
+        "yasakli": [
+          "Pantolon",
+          "Para",
+          "Koymak",
+          "Küçük",
+          "Delik"
+        ]
+      },
+      {
+        "hedef": "KAPI",
+        "yasakli": [
+          "Açmak",
+          "Kapatmak",
+          "Kilit",
+          "Anahtar",
+          "Zil"
+        ]
+      },
+      {
+        "hedef": "ARABA",
+        "yasakli": [
+          "Taşıt",
+          "Tekerlek",
+          "Motor",
+          "Sürmek",
+          "Direksiyon"
+        ]
+      },
+      {
+        "hedef": "ŞAPKA",
+        "yasakli": [
+          "Baş",
+          "Güneş",
+          "Takmak",
+          "Kasket",
+          "Bere"
+        ]
+      },
+      {
+        "hedef": "AYAKKABI",
+        "yasakli": [
+          "Ayak",
+          "Yürümek",
+          "Bağcık",
+          "Giyinmek",
+          "Topuklu"
+        ]
+      },
+      {
+        "hedef": "PARA",
+        "yasakli": [
+          "Kağıt",
+          "Banka",
+          "Zengin",
+          "Bozuk",
+          "Kazanmak"
+        ]
+      },
+      {
+        "hedef": "KEMER",
+        "yasakli": [
+          "Pantolon",
+          "Bel",
+          "Takmak",
+          "Düşmek",
+          "Deri"
+        ]
+      },
+      {
+        "hedef": "KAZAK",
+        "yasakli": [
+          "Yün",
+          "Kış",
+          "Soğuk",
+          "Sıcak",
+          "Giyinmek"
+        ]
+      },
+      {
+        "hedef": "MİSAFİR",
+        "yasakli": [
+          "Ev",
+          "Ziyaret",
+          "Davet",
+          "Ağırlamak",
+          "Çay"
+        ]
+      },
+      {
+        "hedef": "OTOBÜS",
+        "yasakli": [
+          "Yolcu",
+          "Bilet",
+          "Şoför",
+          "Durak",
+          "Koltuk"
+        ]
+      },
+      {
+        "hedef": "KİTAP",
+        "yasakli": [
+          "Okumak",
+          "Sayfa",
+          "Yazar",
+          "Roman",
+          "Kütüphane"
+        ]
+      },
+      {
+        "hedef": "TELEFON",
+        "yasakli": [
+          "Aramak",
+          "İletişim",
+          "Mesaj",
+          "Ekran",
+          "Mobil"
+        ]
+      },
+      {
+        "hedef": "GÖMLEK",
+        "yasakli": [
+          "Yaka",
+          "Düğme",
+          "Kıyafet",
+          "Kumaş",
+          "Ütü"
+        ]
+      },
+      {
+        "hedef": "TARAK",
+        "yasakli": [
+          "Saç",
+          "Taramak",
+          "Fırça",
+          "Kuaför",
+          "Ayna"
+        ]
+      },
+      {
+        "hedef": "ÜTÜ",
+        "yasakli": [
+          "Kıyafet",
+          "Kırışık",
+          "Sıcak",
+          "Gömlek",
+          "Buhar"
+        ]
+      },
+      {
+        "hedef": "BİLGİSAYAR",
+        "yasakli": [
+          "Klavye",
+          "Fare",
+          "Ekran",
+          "İnternet",
+          "Dizüstü"
+        ]
+      },
+      {
+        "hedef": "DOKTOR",
+        "yasakli": [
+          "Hastane",
+          "Hemşire",
+          "İlaç",
+          "Muayene",
+          "Reçete"
+        ]
+      },
+      {
+        "hedef": "KUTLAMA",
+        "yasakli": [
+          "Parti",
+          "Doğum Günü",
+          "Pasta",
+          "Süs",
+          "Eğlence"
+        ]
+      },
+      {
+        "hedef": "PENCERE",
+        "yasakli": [
+          "Cam",
+          "Açmak",
+          "Bakmak",
+          "Manzara",
+          "Perde"
+        ]
+      },
+      {
+        "hedef": "POLİS",
+        "yasakli": [
+          "Karakol",
+          "Suçlu",
+          "Silah",
+          "Memur",
+          "Adalet"
+        ]
+      },
+      {
+        "hedef": "DENİZ",
+        "yasakli": [
+          "Su",
+          "Dalga",
+          "Yüzmek",
+          "Mavi",
+          "Kumsal"
+        ]
+      },
+      {
+        "hedef": "SÜPÜRGE",
+        "yasakli": [
+          "Elektrik",
+          "Toz",
+          "Temizlik",
+          "Çekmek",
+          "Makine"
+        ]
+      },
+      {
+        "hedef": "FIRÇA",
+        "yasakli": [
+          "Diş",
+          "Boyamak",
+          "Saç",
+          "Macun",
+          "Temizlemek"
+        ]
+      },
+      {
+        "hedef": "ANAHTAR",
+        "yasakli": [
+          "Kapı",
+          "Açmak",
+          "Kilit",
+          "Çilingir",
+          "Ev"
+        ]
+      },
+      {
+        "hedef": "ÇANTA",
+        "yasakli": [
+          "Taşımak",
+          "Sırt",
+          "Okul",
+          "Kol",
+          "Cüzdan"
+        ]
+      },
+      {
+        "hedef": "RÜYA",
+        "yasakli": [
+          "Uyumak",
+          "Gece",
+          "Görmek",
+          "Kabus",
+          "Yatak"
+        ]
+      },
+      {
+        "hedef": "PERDE",
+        "yasakli": [
+          "Cam",
+          "Güneş",
+          "Kapatmak",
+          "Pencere",
+          "Kumaş"
+        ]
+      },
+      {
+        "hedef": "HALI",
+        "yasakli": [
+          "Yere",
+          "Sermek",
+          "Dokumak",
+          "Süpürmek",
+          "Oda"
+        ]
+      },
+      {
+        "hedef": "MONT",
+        "yasakli": [
+          "Kış",
+          "Soğuk",
+          "Ceket",
+          "Kaban",
+          "Giyinmek"
+        ]
+      },
+      {
+        "hedef": "GÖZYAŞI",
+        "yasakli": [
+          "Ağlamak",
+          "Üzülmek",
+          "Su",
+          "Göz",
+          "Damla"
+        ]
+      },
+      {
+        "hedef": "KAHKAHA",
+        "yasakli": [
+          "Sesli",
+          "Gülmek",
+          "Komik",
+          "Eğlenmek",
+          "Şaka"
+        ]
+      },
+      {
+        "hedef": "HEDİYE",
+        "yasakli": [
+          "Paket",
+          "Sürpriz",
+          "Doğum",
+          "Vermek",
+          "Açmak"
+        ]
+      },
+      {
+        "hedef": "PAMUK",
+        "yasakli": [
+          "Yumuşak",
+          "Beyaz",
+          "Tarla",
+          "Şeker",
+          "Kozmetik"
+        ]
+      },
+      {
+        "hedef": "ATKI",
+        "yasakli": [
+          "Boyun",
+          "Kış",
+          "Soğuk",
+          "Sarmak",
+          "Bere"
+        ]
+      },
+      {
+        "hedef": "OKUL",
+        "yasakli": [
+          "Öğrenci",
+          "Öğretmen",
+          "Ders",
+          "Sınıf",
+          "Teneffüs"
+        ]
+      },
+      {
+        "hedef": "BULAŞIK",
+        "yasakli": [
+          "Yıkamak",
+          "Makine",
+          "Tabak",
+          "Kirli",
+          "Deterjan"
+        ]
+      },
+      {
+        "hedef": "TREN",
+        "yasakli": [
+          "Ray",
+          "Vagon",
+          "Makinist",
+          "İstasyon",
+          "Bilet"
+        ]
+      },
+      {
+        "hedef": "SABUN",
+        "yasakli": [
+          "Yıkamak",
+          "Köpük",
+          "Temiz",
+          "Su",
+          "Banyo"
+        ]
+      },
+      {
+        "hedef": "SAAT",
+        "yasakli": [
+          "Zaman",
+          "Akrep",
+          "Yelkovan",
+          "Kol",
+          "Dakika"
+        ]
+      },
+      {
+        "hedef": "TELEVİZYON",
+        "yasakli": [
+          "İzlemek",
+          "Kanal",
+          "Kumanda",
+          "Dizi",
+          "Haber"
+        ]
+      },
+      {
+        "hedef": "PİLOT",
+        "yasakli": [
+          "Uçak",
+          "Kaptan",
+          "Hava",
+          "Uçuş",
+          "Hostes"
+        ]
+      },
+      {
+        "hedef": "KOLTUK",
+        "yasakli": [
+          "Oturmak",
+          "Kanepe",
+          "Salon",
+          "Eşya",
+          "Rahat"
+        ]
+      },
+      {
+        "hedef": "ÇAMAŞIR",
+        "yasakli": [
+          "Yıkamak",
+          "Makine",
+          "Kirli",
+          "Sepet",
+          "İp"
+        ]
+      },
+      {
+        "hedef": "KÖPEK",
+        "yasakli": [
+          "Havlamak",
+          "Sadık",
+          "Hayvan",
+          "Kemik",
+          "Kulübe"
+        ]
+      },
+      {
+        "hedef": "GÜNEŞ",
+        "yasakli": [
+          "Sıcak",
+          "Yaz",
+          "Işık",
+          "Gündüz",
+          "Gökyüzü"
+        ]
+      },
+      {
+        "hedef": "BİSİKLET",
+        "yasakli": [
+          "Pedal",
+          "Tekerlek",
+          "Binmek",
+          "Sürmek",
+          "İki"
+        ]
+      },
+      {
+        "hedef": "GÖZLÜK",
+        "yasakli": [
+          "Göz",
+          "Görmek",
+          "Çerçeve",
+          "Cam",
+          "Güneş"
+        ]
+      },
+      {
+        "hedef": "KEDİ",
+        "yasakli": [
+          "Miyav",
+          "Evcil",
+          "Tüy",
+          "Fare",
+          "Süt"
+        ]
+      },
+      {
+        "hedef": "ELDİVEN",
+        "yasakli": [
+          "El",
+          "Kış",
+          "Soğuk",
+          "Takmak",
+          "Parmak"
+        ]
+      },
+      {
+        "hedef": "AYNA",
+        "yasakli": [
+          "Yansıma",
+          "Bakmak",
+          "Silmek",
+          "Kendini",
+          "Yüz"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "name": "Sinema & TV",
+    "colorHex": "FFB400",
+    "words": [
+      {
+        "hedef": "DRAM",
+        "yasakli": [
+          "Ağlamak",
+          "Üzücü",
+          "Acı",
+          "Gözyaşı",
+          "Duygusal"
+        ]
+      },
+      {
+        "hedef": "SPONSOR",
+        "yasakli": [
+          "Destek",
+          "Para",
+          "Reklam",
+          "Marka",
+          "Karşılama"
+        ]
+      },
+      {
+        "hedef": "GÖRSEL EFEKT",
+        "yasakli": [
+          "CGI",
+          "Yeşil Perde",
+          "Bilgisayar",
+          "Animasyon",
+          "Kurgu"
+        ]
+      },
+      {
+        "hedef": "GİŞE",
+        "yasakli": [
+          "Bilet",
+          "Film",
+          "Rekor",
+          "Satış",
+          "Seyirci"
+        ]
+      },
+      {
+        "hedef": "SENARYO",
+        "yasakli": [
+          "Yazmak",
+          "Metin",
+          "Hikaye",
+          "Film",
+          "Replik"
+        ]
+      },
+      {
+        "hedef": "KOSTÜM",
+        "yasakli": [
+          "Kıyafet",
+          "Giyinmek",
+          "Rol",
+          "Tarihi",
+          "Sahne"
+        ]
+      },
+      {
+        "hedef": "AKTRİS",
+        "yasakli": [
+          "Kadın",
+          "Oyuncu",
+          "Rol",
+          "Film",
+          "Başrol"
+        ]
+      },
+      {
+        "hedef": "HOLLYWOOD",
+        "yasakli": [
+          "Amerika",
+          "Sinema",
+          "Film",
+          "Yıldız",
+          "Los Angeles"
+        ]
+      },
+      {
+        "hedef": "ELEŞTİRMEN",
+        "yasakli": [
+          "Yorum",
+          "Yazı",
+          "Puan",
+          "Beğenmek",
+          "Köşe"
+        ]
+      },
+      {
+        "hedef": "MAKYAJ",
+        "yasakli": [
+          "Yüz",
+          "Boya",
+          "Karakter",
+          "Güzellik",
+          "Fırça"
+        ]
+      },
+      {
+        "hedef": "OSCAR",
+        "yasakli": [
+          "Ödül",
+          "Akademi",
+          "Heykelcik",
+          "Sinema",
+          "Tören"
+        ]
+      },
+      {
+        "hedef": "SİNEMA",
+        "yasakli": [
+          "Film",
+          "Perde",
+          "Salon",
+          "İzlemek",
+          "Bilet"
+        ]
+      },
+      {
+        "hedef": "KAMERAMAN",
+        "yasakli": [
+          "Kamera",
+          "Çekim",
+          "Set",
+          "Görüntü",
+          "Objektif"
+        ]
+      },
+      {
+        "hedef": "ANİMASYON",
+        "yasakli": [
+          "Çizgi Film",
+          "Bilgisayar",
+          "Çocuk",
+          "Pixar",
+          "Çizmek"
+        ]
+      },
+      {
+        "hedef": "KANAL",
+        "yasakli": [
+          "Televizyon",
+          "Zapping",
+          "Kumanda",
+          "Geçmek",
+          "Değiştirmek"
+        ]
+      },
+      {
+        "hedef": "FESTİVAL",
+        "yasakli": [
+          "Film",
+          "Ödül",
+          "Cannes",
+          "Etkinlik",
+          "Sinema"
+        ]
+      },
+      {
+        "hedef": "OYUNCU",
+        "yasakli": [
+          "Rol",
+          "Sahne",
+          "Başrol",
+          "Tiyatro",
+          "Karakter"
+        ]
+      },
+      {
+        "hedef": "ROMANTİK",
+        "yasakli": [
+          "Aşk",
+          "Sevgi",
+          "Sevgili",
+          "Öpüşmek",
+          "Duygusal"
+        ]
+      },
+      {
+        "hedef": "KLAKET",
+        "yasakli": [
+          "Vurmak",
+          "Motor",
+          "Kamera",
+          "Sahne",
+          "Tahta"
+        ]
+      },
+      {
+        "hedef": "KORKU FİLMİ",
+        "yasakli": [
+          "Korkutmak",
+          "Gerilim",
+          "Çığlık",
+          "Karanlık",
+          "Cin"
+        ]
+      },
+      {
+        "hedef": "PATLAMIŞ MISIR",
+        "yasakli": [
+          "Sinema",
+          "Tuzlu",
+          "Film",
+          "Yemek",
+          "Mısır"
+        ]
+      },
+      {
+        "hedef": "DUBLAJ",
+        "yasakli": [
+          "Seslendirme",
+          "Çeviri",
+          "Yabancı",
+          "Film",
+          "Orijinal"
+        ]
+      },
+      {
+        "hedef": "VİZYON",
+        "yasakli": [
+          "Girmek",
+          "Film",
+          "Tarih",
+          "Sinema",
+          "Gösterim"
+        ]
+      },
+      {
+        "hedef": "DİZİ",
+        "yasakli": [
+          "Bölüm",
+          "Sezon",
+          "Televizyon",
+          "İzlemek",
+          "Kanal"
+        ]
+      },
+      {
+        "hedef": "KIRMIZI HALI",
+        "yasakli": [
+          "Tören",
+          "Yürümek",
+          "Ünlü",
+          "Galası",
+          "Fotoğraf"
+        ]
+      },
+      {
+        "hedef": "REKLAM",
+        "yasakli": [
+          "Ürün",
+          "Televizyon",
+          "Satmak",
+          "Arası",
+          "Pazarlama"
+        ]
+      },
+      {
+        "hedef": "ALTYAZI",
+        "yasakli": [
+          "Yazı",
+          "Çeviri",
+          "Okumak",
+          "Yabancı",
+          "Aşağı"
+        ]
+      },
+      {
+        "hedef": "CASTING",
+        "yasakli": [
+          "Seçim",
+          "Oyuncu",
+          "Rol",
+          "Deneme",
+          "Ajans"
+        ]
+      },
+      {
+        "hedef": "REPLİK",
+        "yasakli": [
+          "Söz",
+          "Ezberlemek",
+          "Oyuncu",
+          "Söylemek",
+          "Senaryo"
+        ]
+      },
+      {
+        "hedef": "SÜRPRİZ",
+        "yasakli": [
+          "Tahmin",
+          "Şaşırtmak",
+          "Bitmek",
+          "Film",
+          "Köşe"
+        ]
+      },
+      {
+        "hedef": "FİGAN",
+        "yasakli": [
+          "Arka Plan",
+          "Oyuncu",
+          "Rol",
+          "Sessiz",
+          "Kalabalık"
+        ]
+      },
+      {
+        "hedef": "YARIŞMA",
+        "yasakli": [
+          "Kazanmak",
+          "Ödül",
+          "Kaybetmek",
+          "Program",
+          "Sorular"
+        ]
+      },
+      {
+        "hedef": "BELGESEL",
+        "yasakli": [
+          "Gerçek",
+          "Doğa",
+          "Hayvan",
+          "Bilgi",
+          "Kanal"
+        ]
+      },
+      {
+        "hedef": "AKTÖR",
+        "yasakli": [
+          "Erkek",
+          "Oyuncu",
+          "Rol",
+          "Film",
+          "Başrol"
+        ]
+      },
+      {
+        "hedef": "PRÖMİYER",
+        "yasakli": [
+          "İlk",
+          "Gösterim",
+          "Gala",
+          "Oyun",
+          "Film"
+        ]
+      },
+      {
+        "hedef": "BİLİMKURGU",
+        "yasakli": [
+          "Uzay",
+          "Gelecek",
+          "Teknoloji",
+          "Robot",
+          "Film"
+        ]
+      },
+      {
+        "hedef": "KOMEDİ",
+        "yasakli": [
+          "Gülmek",
+          "Eğlence",
+          "Komik",
+          "Şaka",
+          "Film"
+        ]
+      },
+      {
+        "hedef": "FRAGMAN",
+        "yasakli": [
+          "Özet",
+          "Tanıtım",
+          "Film",
+          "Kısa",
+          "Video"
+        ]
+      },
+      {
+        "hedef": "HABER",
+        "yasakli": [
+          "Spiker",
+          "Bülten",
+          "Televizyon",
+          "Gerçek",
+          "Sunmak"
+        ]
+      },
+      {
+        "hedef": "SUNUCU",
+        "yasakli": [
+          "Program",
+          "Televizyon",
+          "Anlatmak",
+          "Yarışma",
+          "Ekranda"
+        ]
+      },
+      {
+        "hedef": "CANNES",
+        "yasakli": [
+          "Festival",
+          "Fransa",
+          "Film",
+          "Ödül",
+          "Altın Palmiye"
+        ]
+      },
+      {
+        "hedef": "YÖNETMEN",
+        "yasakli": [
+          "Motor",
+          "Kamera",
+          "Film",
+          "Kestik",
+          "Senaryo"
+        ]
+      },
+      {
+        "hedef": "AKSİYON",
+        "yasakli": [
+          "Hareket",
+          "Dövüş",
+          "Silah",
+          "Koşmak",
+          "Heyecan"
+        ]
+      },
+      {
+        "hedef": "DEKOR",
+        "yasakli": [
+          "Sahne",
+          "Süslemek",
+          "Arka Plan",
+          "Tasarım",
+          "Eşya"
+        ]
+      },
+      {
+        "hedef": "JÖN",
+        "yasakli": [
+          "Yakışıklı",
+          "Başrol",
+          "Erkek",
+          "Oyuncu",
+          "Film"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "name": "Spor",
+    "colorHex": "00A699",
+    "words": [
+      {
+        "hedef": "MASA TENİSİ",
+        "yasakli": [
+          "Raket",
+          "Pinpon",
+          "Ağ",
+          "Küçük",
+          "Top"
+        ]
+      },
+      {
+        "hedef": "ŞAMPİYON",
+        "yasakli": [
+          "Birinci",
+          "Kupa",
+          "Kazanmak",
+          "Turnuva",
+          "Madalya"
+        ]
+      },
+      {
+        "hedef": "BOWLING",
+        "yasakli": [
+          "Labut",
+          "Top",
+          "Atmak",
+          "Yol",
+          "Strike"
+        ]
+      },
+      {
+        "hedef": "ISINMA",
+        "yasakli": [
+          "Hareket",
+          "Spor",
+          "Maç",
+          "Gerinmek",
+          "Sakatlık"
+        ]
+      },
+      {
+        "hedef": "BUZ PATENİ",
+        "yasakli": [
+          "Kaymak",
+          "Buz",
+          "Ayakkabı",
+          "Soğuk",
+          "Kış"
+        ]
+      },
+      {
+        "hedef": "FİKSTÜR",
+        "yasakli": [
+          "Maç",
+          "Takvim",
+          "Tarih",
+          "Sıralama",
+          "Lig"
+        ]
+      },
+      {
+        "hedef": "TEKVANDO",
+        "yasakli": [
+          "Kuşak",
+          "Dövüş",
+          "Uzakdoğu",
+          "Tekme",
+          "Spor"
+        ]
+      },
+      {
+        "hedef": "MADALYA",
+        "yasakli": [
+          "Altın",
+          "Gümüş",
+          "Bronz",
+          "Ödül",
+          "Kazanmak"
+        ]
+      },
+      {
+        "hedef": "KARATE",
+        "yasakli": [
+          "Dövüş",
+          "Kuşak",
+          "Uzakdoğu",
+          "Spor",
+          "Vurmak"
+        ]
+      },
+      {
+        "hedef": "TRİBÜN",
+        "yasakli": [
+          "Taraftar",
+          "Koltuk",
+          "Stadyum",
+          "Oturmak",
+          "Destek"
+        ]
+      },
+      {
+        "hedef": "STADYUM",
+        "yasakli": [
+          "Saha",
+          "Tribün",
+          "Taraftar",
+          "Maç",
+          "Koltuk"
+        ]
+      },
+      {
+        "hedef": "KUPA",
+        "yasakli": [
+          "Kazanmak",
+          "Şampiyon",
+          "Turnuva",
+          "Kaldırmak",
+          "Ödül"
+        ]
+      },
+      {
+        "hedef": "ANTRENÖR",
+        "yasakli": [
+          "Hoca",
+          "Takım",
+          "Çalıştırmak",
+          "Taktik",
+          "Yönetmek"
+        ]
+      },
+      {
+        "hedef": "KÜREK",
+        "yasakli": [
+          "Çekmek",
+          "Tekne",
+          "Su",
+          "Spor",
+          "Kuvvet"
+        ]
+      },
+      {
+        "hedef": "YÜZME",
+        "yasakli": [
+          "Havuz",
+          "Su",
+          "Kulaç",
+          "Bone",
+          "Mayo"
+        ]
+      },
+      {
+        "hedef": "ATLETİZM",
+        "yasakli": [
+          "Koşmak",
+          "Yarış",
+          "Pist",
+          "Atlet",
+          "Engel"
+        ]
+      },
+      {
+        "hedef": "HALTER",
+        "yasakli": [
+          "Kaldırmak",
+          "Ağırlık",
+          "Naim",
+          "Koparma",
+          "Silkme"
+        ]
+      },
+      {
+        "hedef": "BASKETBOL",
+        "yasakli": [
+          "Pota",
+          "Zıplamak",
+          "Top",
+          "Saha",
+          "Takım"
+        ]
+      },
+      {
+        "hedef": "GÜREŞ",
+        "yasakli": [
+          "Minder",
+          "Pehlivan",
+          "Ata",
+          "Spor",
+          "Kemer"
+        ]
+      },
+      {
+        "hedef": "OFSAYT",
+        "yasakli": [
+          "Kural",
+          "Futbol",
+          "Çizgi",
+          "Hakem",
+          "İptal"
+        ]
+      },
+      {
+        "hedef": "KORNER",
+        "yasakli": [
+          "Köşe",
+          "Vuruş",
+          "Çizgi",
+          "Top",
+          "Futbol"
+        ]
+      },
+      {
+        "hedef": "TARAFTAR",
+        "yasakli": [
+          "Takım",
+          "Destek",
+          "Tribün",
+          "Bağırmak",
+          "Maç"
+        ]
+      },
+      {
+        "hedef": "TENİS",
+        "yasakli": [
+          "Raket",
+          "Kort",
+          "Ağ",
+          "Top",
+          "Wimbledon"
+        ]
+      },
+      {
+        "hedef": "ESKRİM",
+        "yasakli": [
+          "Kılıç",
+          "Maske",
+          "Dürtmek",
+          "Yarış",
+          "Spor"
+        ]
+      },
+      {
+        "hedef": "CİMNASTİK",
+        "yasakli": [
+          "Esnek",
+          "Hareket",
+          "Minder",
+          "Denge",
+          "Alet"
+        ]
+      },
+      {
+        "hedef": "BİSİKLET",
+        "yasakli": [
+          "Pedal",
+          "Tekerlek",
+          "Sürmek",
+          "Gidon",
+          "Kask"
+        ]
+      },
+      {
+        "hedef": "KAYAK",
+        "yasakli": [
+          "Kar",
+          "Dağ",
+          "Baton",
+          "Kış",
+          "Tatil"
+        ]
+      },
+      {
+        "hedef": "DART",
+        "yasakli": [
+          "Ok",
+          "Atmak",
+          "Hedef",
+          "Puan",
+          "Tahta"
+        ]
+      },
+      {
+        "hedef": "LİG",
+        "yasakli": [
+          "Takım",
+          "Puan",
+          "Sıralama",
+          "Şampiyon",
+          "Futbol"
+        ]
+      },
+      {
+        "hedef": "OKÇULUK",
+        "yasakli": [
+          "Yay",
+          "Hedef",
+          "Atmak",
+          "Ok",
+          "Germek"
+        ]
+      },
+      {
+        "hedef": "PENALTI",
+        "yasakli": [
+          "Ceza",
+          "Vuruş",
+          "Nokta",
+          "Kaleci",
+          "Gol"
+        ]
+      },
+      {
+        "hedef": "FORMA",
+        "yasakli": [
+          "Giyinmek",
+          "Renk",
+          "Takım",
+          "Sporcu",
+          "Numara"
+        ]
+      },
+      {
+        "hedef": "GOLF",
+        "yasakli": [
+          "Sopa",
+          "Delik",
+          "Çim",
+          "Zengin",
+          "Top"
+        ]
+      },
+      {
+        "hedef": "HAKEM",
+        "yasakli": [
+          "Düdük",
+          "Maç",
+          "Kırmızı Kart",
+          "Sarı Kart",
+          "Karar"
+        ]
+      },
+      {
+        "hedef": "BADMİNTON",
+        "yasakli": [
+          "Tüylü Top",
+          "Raket",
+          "Ağ",
+          "Vurmak",
+          "Spor"
+        ]
+      },
+      {
+        "hedef": "BOKS",
+        "yasakli": [
+          "Eldiven",
+          "Ring",
+          "Yumruk",
+          "Nakavt",
+          "Dövüş"
+        ]
+      },
+      {
+        "hedef": "BİLARDO",
+        "yasakli": [
+          "Istaka",
+          "Top",
+          "Delik",
+          "Masa",
+          "Bant"
+        ]
+      },
+      {
+        "hedef": "JUDO",
+        "yasakli": [
+          "Uzakdoğu",
+          "Dövüş",
+          "Minder",
+          "Kuşak",
+          "Düşürmek"
+        ]
+      },
+      {
+        "hedef": "YELKEN",
+        "yasakli": [
+          "Rüzgar",
+          "Tekne",
+          "Deniz",
+          "Su",
+          "Yarış"
+        ]
+      },
+      {
+        "hedef": "VOLEYBOL",
+        "yasakli": [
+          "Ağ",
+          "File",
+          "Smaç",
+          "Manşet",
+          "Servis"
+        ]
+      },
+      {
+        "hedef": "MARATON",
+        "yasakli": [
+          "Uzun",
+          "Koşu",
+          "Kilometre",
+          "Yarış",
+          "Dayanıklılık"
+        ]
+      },
+      {
+        "hedef": "FUTBOL",
+        "yasakli": [
+          "Top",
+          "Kale",
+          "Gol",
+          "Hakem",
+          "Maç"
+        ]
+      },
+      {
+        "hedef": "KROKİ",
+        "yasakli": [
+          "Yarış",
+          "Ölçmek",
+          "Alet",
+          "Şekil",
+          "Harita"
+        ]
+      },
+      {
+        "hedef": "KALECİ",
+        "yasakli": [
+          "Eldiven",
+          "Kurtarmak",
+          "Koruma",
+          "Atlamak",
+          "Kale"
+        ]
+      },
+      {
+        "hedef": "SÖRF",
+        "yasakli": [
+          "Dalga",
+          "Tahta",
+          "Deniz",
+          "Denge",
+          "Rüzgar"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "name": "Mutfak & Yemek",
+    "colorHex": "F4A261",
+    "words": [
+      {
+        "hedef": "PATLICAN",
+        "yasakli": [
+          "Mor",
+          "Karnıyarık",
+          "Sebze",
+          "Yemek",
+          "Musakka"
+        ]
+      },
+      {
+        "hedef": "YOĞURT",
+        "yasakli": [
+          "Süt",
+          "Beyaz",
+          "Ayran",
+          "Yemek",
+          "Cacık"
+        ]
+      },
+      {
+        "hedef": "UN",
+        "yasakli": [
+          "Hamur",
+          "Beyaz",
+          "Buğday",
+          "Ekmek",
+          "Kek"
+        ]
+      },
+      {
+        "hedef": "PEYNİR",
+        "yasakli": [
+          "Süt",
+          "Kahvaltı",
+          "Beyaz",
+          "Zeytin",
+          "Kaşar"
+        ]
+      },
+      {
+        "hedef": "BAL",
+        "yasakli": [
+          "Arı",
+          "Tatlı",
+          "Kahvaltı",
+          "Kovan",
+          "Petek"
+        ]
+      },
+      {
+        "hedef": "TATLI",
+        "yasakli": [
+          "Şeker",
+          "Yemek",
+          "Pasta",
+          "Çikolata",
+          "Şerbet"
+        ]
+      },
+      {
+        "hedef": "KAŞIK",
+        "yasakli": [
+          "Yemek",
+          "Çorba",
+          "Çatal",
+          "Bıçak",
+          "Ağız"
+        ]
+      },
+      {
+        "hedef": "TENCERE",
+        "yasakli": [
+          "Yemek",
+          "Pişirmek",
+          "Kapak",
+          "Ocak",
+          "Tava"
+        ]
+      },
+      {
+        "hedef": "BIÇAK",
+        "yasakli": [
+          "Kesmek",
+          "Keskin",
+          "Çatal",
+          "Kaşık",
+          "Ekmek"
+        ]
+      },
+      {
+        "hedef": "BİBER",
+        "yasakli": [
+          "Acı",
+          "Tatlı",
+          "Sebze",
+          "Kırmızı",
+          "Yeşil"
+        ]
+      },
+      {
+        "hedef": "MEYVE SUYU",
+        "yasakli": [
+          "Portakal",
+          "İçmek",
+          "Sıkmak",
+          "Tatlı",
+          "Sıvı"
+        ]
+      },
+      {
+        "hedef": "SÜT",
+        "yasakli": [
+          "İçmek",
+          "İnek",
+          "Beyaz",
+          "Kalsiyum",
+          "Kahvaltı"
+        ]
+      },
+      {
+        "hedef": "SALATA",
+        "yasakli": [
+          "Yeşillik",
+          "Domates",
+          "Sağlıklı",
+          "Limon",
+          "Zeytinyağı"
+        ]
+      },
+      {
+        "hedef": "PATATES",
+        "yasakli": [
+          "Kızartma",
+          "Hamburger",
+          "Yağ",
+          "Tuz",
+          "Sebze"
+        ]
+      },
+      {
+        "hedef": "DONDURMA",
+        "yasakli": [
+          "Soğuk",
+          "Yaz",
+          "Külah",
+          "Tatlı",
+          "Erimik"
+        ]
+      },
+      {
+        "hedef": "KEBAP",
+        "yasakli": [
+          "Et",
+          "Mangal",
+          "Adana",
+          "Şiş",
+          "Izgara"
+        ]
+      },
+      {
+        "hedef": "YUMURTA",
+        "yasakli": [
+          "Tavuk",
+          "Kahvaltı",
+          "Haşlamak",
+          "Sarısı",
+          "Beyazı"
+        ]
+      },
+      {
+        "hedef": "MANTI",
+        "yasakli": [
+          "Kayseri",
+          "Sarımsaklı",
+          "Yoğurt",
+          "Hamur",
+          "Kıymalı"
+        ]
+      },
+      {
+        "hedef": "ZEYTİNYAĞI",
+        "yasakli": [
+          "Zeytin",
+          "Sıvı",
+          "Salata",
+          "Yemek",
+          "Ege"
+        ]
+      },
+      {
+        "hedef": "ŞEKER",
+        "yasakli": [
+          "Tatlı",
+          "Çay",
+          "Küp",
+          "Toz",
+          "Beyaz"
+        ]
+      },
+      {
+        "hedef": "BAKLAVA",
+        "yasakli": [
+          "Gaziantep",
+          "Fıstık",
+          "Ceviz",
+          "Şerbet",
+          "Tatlı"
+        ]
+      },
+      {
+        "hedef": "SİRKE",
+        "yasakli": [
+          "Limon",
+          "Salata",
+          "Üzüm",
+          "Elma",
+          "Ekşi"
+        ]
+      },
+      {
+        "hedef": "HAMBURGER",
+        "yasakli": [
+          "Ekmek",
+          "Et",
+          "Köfte",
+          "Fast",
+          "Patates"
+        ]
+      },
+      {
+        "hedef": "EKMEK",
+        "yasakli": [
+          "Fırın",
+          "Hamur",
+          "Buğday",
+          "Dilim",
+          "Yemek"
+        ]
+      },
+      {
+        "hedef": "KÜNEFE",
+        "yasakli": [
+          "Hatay",
+          "Peynir",
+          "Şerbet",
+          "Kadayıf",
+          "Sıcak"
+        ]
+      },
+      {
+        "hedef": "REÇEL",
+        "yasakli": [
+          "Tatlı",
+          "Kahvaltı",
+          "Meyve",
+          "Çilek",
+          "Şeker"
+        ]
+      },
+      {
+        "hedef": "ÇORBA",
+        "yasakli": [
+          "Sıcak",
+          "İçmek",
+          "Kase",
+          "Kaşık",
+          "Sulu"
+        ]
+      },
+      {
+        "hedef": "PİZZA",
+        "yasakli": [
+          "Yuvarlak",
+          "İtalyan",
+          "Hamur",
+          "Peynir",
+          "Dilim"
+        ]
+      },
+      {
+        "hedef": "MAKARNA",
+        "yasakli": [
+          "İtalyan",
+          "Salça",
+          "Hamur",
+          "Kaynatmak",
+          "Spagetti"
+        ]
+      },
+      {
+        "hedef": "SOĞAN",
+        "yasakli": [
+          "Göz",
+          "Ağlamak",
+          "Sebze",
+          "Sarımsak",
+          "Doğramak"
+        ]
+      },
+      {
+        "hedef": "TAVA",
+        "yasakli": [
+          "Yemek",
+          "Kızartma",
+          "Sap",
+          "Yağ",
+          "Ocak"
+        ]
+      },
+      {
+        "hedef": "PASTA",
+        "yasakli": [
+          "Doğum Günü",
+          "Mum",
+          "Kesmek",
+          "Krema",
+          "Tatlı"
+        ]
+      },
+      {
+        "hedef": "TUZ",
+        "yasakli": [
+          "Karabiber",
+          "Baharat",
+          "Beyaz",
+          "Yemek",
+          "Deniz"
+        ]
+      },
+      {
+        "hedef": "ÇİKOLATA",
+        "yasakli": [
+          "Kakao",
+          "Tatlı",
+          "Sütlü",
+          "Bitter",
+          "Yemek"
+        ]
+      },
+      {
+        "hedef": "ZEYTİN",
+        "yasakli": [
+          "Kahvaltı",
+          "Siyah",
+          "Siyah",
+          "Yağ",
+          "Çekirdek"
+        ]
+      },
+      {
+        "hedef": "LİMON",
+        "yasakli": [
+          "Ekşi",
+          "Sarı",
+          "Çay",
+          "Sıkmak",
+          "Asit"
+        ]
+      },
+      {
+        "hedef": "SARIMSAK",
+        "yasakli": [
+          "Koku",
+          "Soğan",
+          "Diş",
+          "Yemek",
+          "Cacık"
+        ]
+      },
+      {
+        "hedef": "DOMATES",
+        "yasakli": [
+          "Kırmızı",
+          "Sebze",
+          "Salça",
+          "Salata",
+          "Menemen"
+        ]
+      },
+      {
+        "hedef": "MANGAL",
+        "yasakli": [
+          "Et",
+          "Ateş",
+          "Izgara",
+          "Piknik",
+          "Kömür"
+        ]
+      },
+      {
+        "hedef": "BULAŞIK",
+        "yasakli": [
+          "Yıkamak",
+          "Makine",
+          "Kirli",
+          "Tabak",
+          "Deterjan"
+        ]
+      },
+      {
+        "hedef": "MENEMEN",
+        "yasakli": [
+          "Yumurta",
+          "Domates",
+          "Biber",
+          "Soğan",
+          "Kahvaltı"
+        ]
+      },
+      {
+        "hedef": "KAHVE",
+        "yasakli": [
+          "Kafein",
+          "Fincan",
+          "Telve",
+          "Sıcak",
+          "Uykusuz"
+        ]
+      },
+      {
+        "hedef": "FIRIN",
+        "yasakli": [
+          "Pişirmek",
+          "Kek",
+          "Tepsi",
+          "Sıcak",
+          "Mutfak"
+        ]
+      },
+      {
+        "hedef": "ÇAY",
+        "yasakli": [
+          "İçecek",
+          "Bardak",
+          "Sıcak",
+          "Demlik",
+          "Kahvaltı"
+        ]
+      },
+      {
+        "hedef": "ÇATAL",
+        "yasakli": [
+          "Yemek",
+          "Kaşık",
+          "Bıçak",
+          "Batırmak",
+          "Ağız"
+        ]
+      },
+      {
+        "hedef": "AYRAN",
+        "yasakli": [
+          "Yoğurt",
+          "Su",
+          "Tuz",
+          "İçmek",
+          "Milli"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "name": "Coğrafya & Seyahat",
+    "colorHex": "2A9D8F",
+    "words": [
+      {
+        "hedef": "ORMAN",
+        "yasakli": [
+          "Ağaç",
+          "Yeşil",
+          "Hayvan",
+          "Kamp",
+          "Yangın"
+        ]
+      },
+      {
+        "hedef": "GÜMRÜK",
+        "yasakli": [
+          "Sınır",
+          "Vergi",
+          "Kontrol",
+          "Kaçak",
+          "Ülke"
+        ]
+      },
+      {
+        "hedef": "YARIMADA",
+        "yasakli": [
+          "Üç Tarafı",
+          "Deniz",
+          "Su",
+          "Anadolu",
+          "Kara"
+        ]
+      },
+      {
+        "hedef": "UÇAK BİLETİ",
+        "yasakli": [
+          "Satın",
+          "Yolculuk",
+          "Uçmak",
+          "Havaalanı",
+          "Koltuk"
+        ]
+      },
+      {
+        "hedef": "BOĞAZ",
+        "yasakli": [
+          "Deniz",
+          "İstanbul",
+          "Çanakkale",
+          "Köprü",
+          "Geçiş"
+        ]
+      },
+      {
+        "hedef": "YANARDAĞ",
+        "yasakli": [
+          "Lav",
+          "Patlamak",
+          "Ateş",
+          "Dağ",
+          "Magma"
+        ]
+      },
+      {
+        "hedef": "DAĞ",
+        "yasakli": [
+          "Yüksek",
+          "Zirve",
+          "Tırmanmak",
+          "Kar",
+          "Tepe"
+        ]
+      },
+      {
+        "hedef": "BİTKİ ÖRTÜSÜ",
+        "yasakli": [
+          "Ağaç",
+          "Yeşil",
+          "Orman",
+          "İklim",
+          "Toprak"
+        ]
+      },
+      {
+        "hedef": "TÜRKİYE",
+        "yasakli": [
+          "Ankara",
+          "Ülke",
+          "İstanbul",
+          "Vatan",
+          "Harita"
+        ]
+      },
+      {
+        "hedef": "BAŞKENT",
+        "yasakli": [
+          "Şehir",
+          "Yönetim",
+          "Ankara",
+          "Merkez",
+          "Ülke"
+        ]
+      },
+      {
+        "hedef": "VADİ",
+        "yasakli": [
+          "Dağ",
+          "Çukur",
+          "Akarsu",
+          "Nehir",
+          "Orman"
+        ]
+      },
+      {
+        "hedef": "PASAPORT",
+        "yasakli": [
+          "Seyahat",
+          "Yurtdışı",
+          "Ülke",
+          "Vize",
+          "Defter"
+        ]
+      },
+      {
+        "hedef": "ANITKABİR",
+        "yasakli": [
+          "Atatürk",
+          "Ankara",
+          "Mezar",
+          "Ziyaret",
+          "Gazi"
+        ]
+      },
+      {
+        "hedef": "GÖL",
+        "yasakli": [
+          "Su",
+          "Deniz",
+          "Nehir",
+          "Kapalı",
+          "Van"
+        ]
+      },
+      {
+        "hedef": "SINIR",
+        "yasakli": [
+          "Ülke",
+          "Çizgi",
+          "Gümrük",
+          "Geçiş",
+          "Kapı"
+        ]
+      },
+      {
+        "hedef": "OTEL",
+        "yasakli": [
+          "Konaklamak",
+          "Tatil",
+          "Oda",
+          "Resepsiyon",
+          "Yatak"
+        ]
+      },
+      {
+        "hedef": "İSTANBUL",
+        "yasakli": [
+          "Boğaz",
+          "Köprü",
+          "Şehir",
+          "Avrupa",
+          "Asya"
+        ]
+      },
+      {
+        "hedef": "REHBER",
+        "yasakli": [
+          "Turist",
+          "Gezdirmek",
+          "Anlatmak",
+          "Tarih",
+          "Tur"
+        ]
+      },
+      {
+        "hedef": "ÇÖL",
+        "yasakli": [
+          "Kum",
+          "Sıcak",
+          "Kurak",
+          "Deve",
+          "Vaha"
+        ]
+      },
+      {
+        "hedef": "ADA",
+        "yasakli": [
+          "Deniz",
+          "Tarafı",
+          "Su",
+          "Kara",
+          "Yavru"
+        ]
+      },
+      {
+        "hedef": "AFRİKA",
+        "yasakli": [
+          "Kıta",
+          "Sıcak",
+          "Aslan",
+          "Çöl",
+          "Siyahi"
+        ]
+      },
+      {
+        "hedef": "OKYANUS",
+        "yasakli": [
+          "Büyük",
+          "Su",
+          "Deniz",
+          "Pasifik",
+          "Atlantik"
+        ]
+      },
+      {
+        "hedef": "VALİZ",
+        "yasakli": [
+          "Bavul",
+          "Eşya",
+          "Kıyafet",
+          "Seyahat",
+          "Çanta"
+        ]
+      },
+      {
+        "hedef": "KAMP",
+        "yasakli": [
+          "Çadır",
+          "Doğa",
+          "Ateş",
+          "Tulum",
+          "Orman"
+        ]
+      },
+      {
+        "hedef": "ÇADIR",
+        "yasakli": [
+          "Kamp",
+          "Doğa",
+          "Kurmak",
+          "Uyumak",
+          "Kumaş"
+        ]
+      },
+      {
+        "hedef": "KITA",
+        "yasakli": [
+          "Avrupa",
+          "Asya",
+          "Amerika",
+          "Afrika",
+          "Büyük"
+        ]
+      },
+      {
+        "hedef": "KÖRFEZ",
+        "yasakli": [
+          "Deniz",
+          "Koy",
+          "Gemi",
+          "Liman",
+          "Girinti"
+        ]
+      },
+      {
+        "hedef": "TURİST",
+        "yasakli": [
+          "Gezgin",
+          "Yabancı",
+          "Seyahat",
+          "Kamera",
+          "Ülke"
+        ]
+      },
+      {
+        "hedef": "EKVATOR",
+        "yasakli": [
+          "Çizgi",
+          "Ortası",
+          "Dünya",
+          "Sıcak",
+          "Paralel"
+        ]
+      },
+      {
+        "hedef": "HARİTA",
+        "yasakli": [
+          "Yön",
+          "Pusula",
+          "Bulmak",
+          "Ülke",
+          "Göstermek"
+        ]
+      },
+      {
+        "hedef": "ŞELALE",
+        "yasakli": [
+          "Su",
+          "Yüksek",
+          "Akarsu",
+          "Düşmek",
+          "Manzara"
+        ]
+      },
+      {
+        "hedef": "KUTUP",
+        "yasakli": [
+          "Kuzey",
+          "Güney",
+          "Buz",
+          "Soğuk",
+          "Ayı"
+        ]
+      },
+      {
+        "hedef": "KUM",
+        "yasakli": [
+          "Deniz",
+          "Plaj",
+          "Güneş",
+          "Çöl",
+          "Tanecik"
+        ]
+      },
+      {
+        "hedef": "AVRUPA",
+        "yasakli": [
+          "Kıta",
+          "Birlik",
+          "Batı",
+          "Ülke",
+          "Euro"
+        ]
+      },
+      {
+        "hedef": "VİZE",
+        "yasakli": [
+          "Konsolosluk",
+          "İzin",
+          "Pasaport",
+          "Ülke",
+          "Başvuru"
+        ]
+      },
+      {
+        "hedef": "PLAJ",
+        "yasakli": [
+          "Kum",
+          "Deniz",
+          "Yaz",
+          "Güneş",
+          "Şezlong"
+        ]
+      },
+      {
+        "hedef": "ANKARA",
+        "yasakli": [
+          "Başkent",
+          "İç Anadolu",
+          "Türkiye",
+          "Meclis",
+          "Anıtkabir"
+        ]
+      },
+      {
+        "hedef": "İKLİM",
+        "yasakli": [
+          "Hava",
+          "Sıcak",
+          "Soğuk",
+          "Yağış",
+          "Mevsim"
+        ]
+      },
+      {
+        "hedef": "DEPREM",
+        "yasakli": [
+          "Sarsıntı",
+          "Fay",
+          "Kandilli",
+          "Afet",
+          "Yıkım"
+        ]
+      },
+      {
+        "hedef": "AMERİKA",
+        "yasakli": [
+          "Kıta",
+          "ABD",
+          "New York",
+          "Okyanus",
+          "Kapasite"
+        ]
+      },
+      {
+        "hedef": "ASYA",
+        "yasakli": [
+          "Kıta",
+          "Büyük",
+          "Çin",
+          "Japonya",
+          "Doğu"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "6",
+    "name": "Hayvanlar & Doğa",
+    "colorHex": "D4A373",
+    "words": [
+      {
+        "hedef": "ZÜRAFA",
+        "yasakli": [
+          "Uzun",
+          "Boyun",
+          "Sarı",
+          "Afrika",
+          "Yaprak"
+        ]
+      },
+      {
+        "hedef": "YUNUS",
+        "yasakli": [
+          "Deniz",
+          "Zeki",
+          "Memeli",
+          "Yüzmek",
+          "Sevimli"
+        ]
+      },
+      {
+        "hedef": "AĞAÇ",
+        "yasakli": [
+          "Yaprak",
+          "Dal",
+          "Orman",
+          "Gövde",
+          "Yeşil"
+        ]
+      },
+      {
+        "hedef": "KARTOPU",
+        "yasakli": [
+          "Kış",
+          "Kar",
+          "Atmak",
+          "Oynamak",
+          "Soğuk"
+        ]
+      },
+      {
+        "hedef": "KEÇİ",
+        "yasakli": [
+          "İnatçı",
+          "Sakal",
+          "Boynuz",
+          "Süt",
+          "Dağ"
+        ]
+      },
+      {
+        "hedef": "KOYUN",
+        "yasakli": [
+          "Mee",
+          "Yün",
+          "Sürü",
+          "Kuzu",
+          "Çiftlik"
+        ]
+      },
+      {
+        "hedef": "MAYMUN",
+        "yasakli": [
+          "Muz",
+          "Ağaç",
+          "Tırmanmak",
+          "Şempanze",
+          "Goril"
+        ]
+      },
+      {
+        "hedef": "KAPLUMBAĞA",
+        "yasakli": [
+          "Yavaş",
+          "Kabuk",
+          "Tosbağa",
+          "Hayvan",
+          "Yeşil"
+        ]
+      },
+      {
+        "hedef": "KARINCA",
+        "yasakli": [
+          "Çalışkan",
+          "Böcek",
+          "Küçük",
+          "Yuva",
+          "Toprak"
+        ]
+      },
+      {
+        "hedef": "SİVRİSİNEK",
+        "yasakli": [
+          "Kan",
+          "Isırmak",
+          "Yaz",
+          "Kaşınmak",
+          "Böcek"
+        ]
+      },
+      {
+        "hedef": "KAPLAN",
+        "yasakli": [
+          "Çizgili",
+          "Vahşi",
+          "Aslan",
+          "Kedigiller",
+          "Orman"
+        ]
+      },
+      {
+        "hedef": "KELEBEK",
+        "yasakli": [
+          "Renkli",
+          "Uçmak",
+          "Kanat",
+          "Tırtıl",
+          "Koz"
+        ]
+      },
+      {
+        "hedef": "YARASA",
+        "yasakli": [
+          "Gece",
+          "Uçmak",
+          "Karanlık",
+          "Mağara",
+          "Kan"
+        ]
+      },
+      {
+        "hedef": "PAPATYA",
+        "yasakli": [
+          "Beyaz",
+          "Sarı",
+          "Seviyor",
+          "Çiçek",
+          "Fal"
+        ]
+      },
+      {
+        "hedef": "YILAN",
+        "yasakli": [
+          "Zehirli",
+          "Sürünmek",
+          "Tıslamak",
+          "Kobra",
+          "Sürüngen"
+        ]
+      },
+      {
+        "hedef": "AT",
+        "yasakli": [
+          "Binmek",
+          "Nal",
+          "Kişnemek",
+          "Yele",
+          "Koşmak"
+        ]
+      },
+      {
+        "hedef": "KAKTÜS",
+        "yasakli": [
+          "Diken",
+          "Çöl",
+          "Su",
+          "Bitki",
+          "Yeşil"
+        ]
+      },
+      {
+        "hedef": "EŞEK",
+        "yasakli": [
+          "İnatçı",
+          "Semer",
+          "Yük",
+          "Hayvan",
+          "Kulak"
+        ]
+      },
+      {
+        "hedef": "PENGUEN",
+        "yasakli": [
+          "Kutup",
+          "Soğuk",
+          "Kuş",
+          "Uçamayan",
+          "Buz"
+        ]
+      },
+      {
+        "hedef": "TAVUK",
+        "yasakli": [
+          "Yumurta",
+          "Gıdaklamak",
+          "Çiftlik",
+          "Kuş",
+          "Kümes"
+        ]
+      },
+      {
+        "hedef": "KUŞ",
+        "yasakli": [
+          "Uçmak",
+          "Kanat",
+          "Gaga",
+          "Tüy",
+          "Yuva"
+        ]
+      },
+      {
+        "hedef": "İNEK",
+        "yasakli": [
+          "Süt",
+          "Möö",
+          "Otlamak",
+          "Çiftlik",
+          "Sığır"
+        ]
+      },
+      {
+        "hedef": "YAPRAK",
+        "yasakli": [
+          "Ağaç",
+          "Yeşil",
+          "Sonbahar",
+          "Dökülmek",
+          "Dal"
+        ]
+      },
+      {
+        "hedef": "SİNCAP",
+        "yasakli": [
+          "Ceviz",
+          "Fındık",
+          "Ağaç",
+          "Kuyruk",
+          "Kemirgen"
+        ]
+      },
+      {
+        "hedef": "FARE",
+        "yasakli": [
+          "Peynir",
+          "Kedi",
+          "Küçük",
+          "Kapan",
+          "Kemirgen"
+        ]
+      },
+      {
+        "hedef": "ARI",
+        "yasakli": [
+          "Bal",
+          "Kovan",
+          "Sokmak",
+          "Sarı Siyah",
+          "Çiçek"
+        ]
+      },
+      {
+        "hedef": "ÇİÇEK",
+        "yasakli": [
+          "Koklamak",
+          "Renkli",
+          "Buket",
+          "Gül",
+          "Papatya"
+        ]
+      },
+      {
+        "hedef": "BALİNA",
+        "yasakli": [
+          "Büyük",
+          "Okyanus",
+          "Memeli",
+          "Deniz",
+          "Su"
+        ]
+      },
+      {
+        "hedef": "TAVŞAN",
+        "yasakli": [
+          "Hızlı",
+          "Havuç",
+          "Kulak",
+          "Zıplamak",
+          "Beyaz"
+        ]
+      },
+      {
+        "hedef": "KANGURU",
+        "yasakli": [
+          "Avustralya",
+          "Zıplamak",
+          "Kese",
+          "Yavru",
+          "Boks"
+        ]
+      },
+      {
+        "hedef": "FİL",
+        "yasakli": [
+          "Hortum",
+          "Büyük",
+          "Kulak",
+          "Hayvan",
+          "Afrika"
+        ]
+      },
+      {
+        "hedef": "KARTAL",
+        "yasakli": [
+          "Kuş",
+          "Yırtıcı",
+          "Uçmak",
+          "Pençe",
+          "Dağ"
+        ]
+      },
+      {
+        "hedef": "ÖRÜMCEK",
+        "yasakli": [
+          "Ağ",
+          "Sekiz Bacak",
+          "Böcek",
+          "Örmek",
+          "Zehirli"
+        ]
+      },
+      {
+        "hedef": "KUTUP AYISI",
+        "yasakli": [
+          "Beyaz",
+          "Kar",
+          "Buz",
+          "Kuzey",
+          "Soğuk"
+        ]
+      },
+      {
+        "hedef": "GÜL",
+        "yasakli": [
+          "Kırmızı",
+          "Çiçek",
+          "Diken",
+          "Koklamak",
+          "Aşk"
+        ]
+      },
+      {
+        "hedef": "ASLAN",
+        "yasakli": [
+          "Kral",
+          "Orman",
+          "Yırtıcı",
+          "Kükremek",
+          "Kedi"
+        ]
+      },
+      {
+        "hedef": "BALIK",
+        "yasakli": [
+          "Yüzmek",
+          "Su",
+          "Deniz",
+          "Solungaç",
+          "Pullu"
+        ]
+      },
+      {
+        "hedef": "KÖPEKBALIĞI",
+        "yasakli": [
+          "Deniz",
+          "Yırtıcı",
+          "Diş",
+          "Yüzgeç",
+          "Korkunç"
+        ]
+      },
+      {
+        "hedef": "TİMSAH",
+        "yasakli": [
+          "Sürüngen",
+          "Zehirli Değil",
+          "Bataklık",
+          "Diş",
+          "Gözyaşı"
+        ]
+      },
+      {
+        "hedef": "HOROZ",
+        "yasakli": [
+          "Sabah",
+          "Ötmek",
+          "Kalkmak",
+          "Tavuk",
+          "Kümes"
+        ]
+      },
+      {
+        "hedef": "ÇİM",
+        "yasakli": [
+          "Yeşil",
+          "Bahçe",
+          "Toprak",
+          "Kesmek",
+          "Saha"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "7",
+    "name": "Tarih & Efsaneler",
+    "colorHex": "8ECAE6",
+    "words": [
+      {
+        "hedef": "SARAY",
+        "yasakli": [
+          "Kral",
+          "Büyük",
+          "Ev",
+          "Görkemli",
+          "Padişah"
+        ]
+      },
+      {
+        "hedef": "ROMA",
+        "yasakli": [
+          "İtalya",
+          "İmparatorluk",
+          "Tarih",
+          "Gladyatör",
+          "Kolezyum"
+        ]
+      },
+      {
+        "hedef": "VİKİNGLER",
+        "yasakli": [
+          "Denizci",
+          "Savaşçı",
+          "Kuzey",
+          "Boynuzlu Kask",
+          "Kılıç"
+        ]
+      },
+      {
+        "hedef": "MAYALAR",
+        "yasakli": [
+          "Takvim",
+          "Tarih",
+          "Amerika",
+          "Medeniyet",
+          "Eski"
+        ]
+      },
+      {
+        "hedef": "BARIŞ",
+        "yasakli": [
+          "Savaş",
+          "Güvercin",
+          "Zeytin",
+          "Anlaşma",
+          "Huzur"
+        ]
+      },
+      {
+        "hedef": "ANTLAŞMA",
+        "yasakli": [
+          "İmza",
+          "Savaş",
+          "Barış",
+          "Kağıt",
+          "Devlet"
+        ]
+      },
+      {
+        "hedef": "MUMYA",
+        "yasakli": [
+          "Mısır",
+          "Firavun",
+          "Sargı",
+          "Piramit",
+          "Ölü"
+        ]
+      },
+      {
+        "hedef": "CENGİZ HAN",
+        "yasakli": [
+          "Moğol",
+          "İmparator",
+          "Tarihi",
+          "Asya",
+          "Savaş"
+        ]
+      },
+      {
+        "hedef": "ŞİMŞEK",
+        "yasakli": [
+          "Zeus",
+          "Gökyüzü",
+          "Çakmak",
+          "Ses",
+          "Işık"
+        ]
+      },
+      {
+        "hedef": "SEZAR",
+        "yasakli": [
+          "Roma",
+          "İmparator",
+          "Suikast",
+          "Senato",
+          "Brütüs"
+        ]
+      },
+      {
+        "hedef": "KILIÇ",
+        "yasakli": [
+          "Savaş",
+          "Keskin",
+          "Kalkan",
+          "Tarih",
+          "Silah"
+        ]
+      },
+      {
+        "hedef": "OK",
+        "yasakli": [
+          "Yay",
+          "Atmak",
+          "Savaş",
+          "Hedef",
+          "Tarih"
+        ]
+      },
+      {
+        "hedef": "FİRAVUN",
+        "yasakli": [
+          "Mısır",
+          "Kral",
+          "Piramit",
+          "Mumya",
+          "Eski"
+        ]
+      },
+      {
+        "hedef": "MİMAR SİNAN",
+        "yasakli": [
+          "Cami",
+          "Usta",
+          "Tarih",
+          "Süleymaniye",
+          "Selimiye"
+        ]
+      },
+      {
+        "hedef": "ATATÜRK",
+        "yasakli": [
+          "Lider",
+          "Cumhuriyet",
+          "Kurucu",
+          "10 Kasım",
+          "Anıtkabir"
+        ]
+      },
+      {
+        "hedef": "İSKENDER",
+        "yasakli": [
+          "Büyük",
+          "Makedonya",
+          "Kral",
+          "Savaş",
+          "Tarih"
+        ]
+      },
+      {
+        "hedef": "MECLİS",
+        "yasakli": [
+          "Milletvekili",
+          "Ankara",
+          "Toplantı",
+          "Yasa",
+          "Seçim"
+        ]
+      },
+      {
+        "hedef": "CUMHURİYET",
+        "yasakli": [
+          "Ekim",
+          "Yönetim",
+          "Halk",
+          "Atatürk",
+          "Demokrasi"
+        ]
+      },
+      {
+        "hedef": "TRUVA",
+        "yasakli": [
+          "At",
+          "Savaş",
+          "Çanakkale",
+          "Ahşap",
+          "Tarih"
+        ]
+      },
+      {
+        "hedef": "İNKALAR",
+        "yasakli": [
+          "Amerika",
+          "Tarih",
+          "Medeniyet",
+          "Eski",
+          "Dağ"
+        ]
+      },
+      {
+        "hedef": "OSMANLI",
+        "yasakli": [
+          "İmparatorluk",
+          "Padişah",
+          "Tarih",
+          "Devlet",
+          "Fatih"
+        ]
+      },
+      {
+        "hedef": "EFSANE",
+        "yasakli": [
+          "Hikaye",
+          "Mitoloji",
+          "Eski",
+          "Gerçek",
+          "Kahraman"
+        ]
+      },
+      {
+        "hedef": "KRAL",
+        "yasakli": [
+          "Kraliçe",
+          "Taht",
+          "Tac",
+          "Yönetmek",
+          "Saray"
+        ]
+      },
+      {
+        "hedef": "SAVAŞ",
+        "yasakli": [
+          "Barış",
+          "Ordu",
+          "Asker",
+          "Silah",
+          "Tarih"
+        ]
+      },
+      {
+        "hedef": "FATİH SULTAN",
+        "yasakli": [
+          "İstanbul",
+          "Fethetmek",
+          "Padişah",
+          "Gemiler",
+          "Karadan"
+        ]
+      },
+      {
+        "hedef": "SÜMERLER",
+        "yasakli": [
+          "Yazı",
+          "Tekerlek",
+          "Tarih",
+          "Uygarlık",
+          "Mezopotamya"
+        ]
+      },
+      {
+        "hedef": "ŞÖVALYE",
+        "yasakli": [
+          "Zırh",
+          "At",
+          "Savaşçı",
+          "Ortaçağ",
+          "Kılıç"
+        ]
+      },
+      {
+        "hedef": "PRENSES",
+        "yasakli": [
+          "Masal",
+          "Kral",
+          "Kız",
+          "Şato",
+          "Prens"
+        ]
+      },
+      {
+        "hedef": "HİTİTLER",
+        "yasakli": [
+          "Anadolu",
+          "Tarih",
+          "Uygarlık",
+          "Yazı",
+          "Hattuşaş"
+        ]
+      },
+      {
+        "hedef": "MİTOLOJİ",
+        "yasakli": [
+          "Efsane",
+          "Tanrı",
+          "Yunan",
+          "Eski",
+          "Zeus"
+        ]
+      },
+      {
+        "hedef": "KLEOPATRA",
+        "yasakli": [
+          "Mısır",
+          "Kraliçe",
+          "Güzellik",
+          "Roma",
+          "Tarih"
+        ]
+      },
+      {
+        "hedef": "KAHRAMAN",
+        "yasakli": [
+          "Güçlü",
+          "Kurtarmak",
+          "Süper",
+          "Cesur",
+          "Korkut"
+        ]
+      },
+      {
+        "hedef": "DESTAN",
+        "yasakli": [
+          "Tarih",
+          "Uzun",
+          "Hikaye",
+          "Ergenekon",
+          "Oğuz"
+        ]
+      },
+      {
+        "hedef": "TAC",
+        "yasakli": [
+          "Kral",
+          "Baş",
+          "Takmak",
+          "Mücevher",
+          "Altın"
+        ]
+      },
+      {
+        "hedef": "ZEUS",
+        "yasakli": [
+          "Tanrı",
+          "Yunan",
+          "Şimşek",
+          "Olimpos",
+          "Mitoloji"
+        ]
+      },
+      {
+        "hedef": "PİRAMİT",
+        "yasakli": [
+          "Mısır",
+          "Firavun",
+          "Üçgen",
+          "Mezar",
+          "Tarih"
+        ]
+      },
+      {
+        "hedef": "HERKÜL",
+        "yasakli": [
+          "Güçlü",
+          "Mitoloji",
+          "Yunan",
+          "Kahraman",
+          "Yarı"
+        ]
+      },
+      {
+        "hedef": "KALKAN",
+        "yasakli": [
+          "Korunmak",
+          "Kılıç",
+          "Savaş",
+          "Şövalye",
+          "Zırh"
+        ]
+      },
+      {
+        "hedef": "GLADYATÖR",
+        "yasakli": [
+          "Roma",
+          "Arena",
+          "Savaşçı",
+          "Kılıç",
+          "Aslan"
+        ]
+      },
+      {
+        "hedef": "TAHT",
+        "yasakli": [
+          "Oturmak",
+          "Kral",
+          "Padişah",
+          "Saray",
+          "Yönetmek"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "8",
+    "name": "Sanat & Bilim",
+    "colorHex": "9C89B8",
+    "words": [
+      {
+        "hedef": "ROBOT",
+        "yasakli": [
+          "Makine",
+          "Teknoloji",
+          "Yapay Zeka",
+          "Demir",
+          "İnsan"
+        ]
+      },
+      {
+        "hedef": "YAPAY",
+        "yasakli": [
+          "Bilgisayar",
+          "Robot",
+          "Zeki",
+          "Teknoloji",
+          "Gelecek"
+        ]
+      },
+      {
+        "hedef": "HÜCRE",
+        "yasakli": [
+          "Küçük",
+          "Biyoloji",
+          "Mikroskop",
+          "Canlı",
+          "Çekirdek"
+        ]
+      },
+      {
+        "hedef": "MÜZE",
+        "yasakli": [
+          "Tarih",
+          "Eser",
+          "Gezmek",
+          "Sanat",
+          "Sergi"
+        ]
+      },
+      {
+        "hedef": "GRAHAM_BELL",
+        "yasakli": [
+          "Mucit",
+          "Telefon",
+          "İcat",
+          "Aramak",
+          "Konuşmak"
+        ]
+      },
+      {
+        "hedef": "UZAY",
+        "yasakli": [
+          "Yıldız",
+          "Gezegen",
+          "Boşluk",
+          "Galaksi",
+          "Astronot"
+        ]
+      },
+      {
+        "hedef": "ASTRONOT",
+        "yasakli": [
+          "Uzay",
+          "Mekik",
+          "Ay",
+          "Yerçekimi",
+          "Kıyafet"
+        ]
+      },
+      {
+        "hedef": "HEYKEL",
+        "yasakli": [
+          "Mermer",
+          "Taş",
+          "Oymak",
+          "Müze",
+          "Sanatçı"
+        ]
+      },
+      {
+        "hedef": "GİTAR",
+        "yasakli": [
+          "Tel",
+          "Çalmak",
+          "Akustik",
+          "Müzik",
+          "Akord"
+        ]
+      },
+      {
+        "hedef": "NEWTON",
+        "yasakli": [
+          "Yerçekimi",
+          "Elma",
+          "Fizik",
+          "Kafasına",
+          "Kanun"
+        ]
+      },
+      {
+        "hedef": "BİLGİSAYAR",
+        "yasakli": [
+          "Yazılım",
+          "Kod",
+          "Ekran",
+          "Klavye",
+          "Teknoloji"
+        ]
+      },
+      {
+        "hedef": "İCAT",
+        "yasakli": [
+          "Bulmak",
+          "Yeni",
+          "Mucit",
+          "Buluş",
+          "Bilim"
+        ]
+      },
+      {
+        "hedef": "AMPUL",
+        "yasakli": [
+          "Işık",
+          "Edison",
+          "Yanmak",
+          "Elektrik",
+          "Aydınlık"
+        ]
+      },
+      {
+        "hedef": "GÜNEŞ.Sistemi",
+        "yasakli": [
+          "Gezegen",
+          "Uzay",
+          "Dünya",
+          "Merkez",
+          "Yörünge"
+        ]
+      },
+      {
+        "hedef": "MİKROSKOP",
+        "yasakli": [
+          "Büyütmek",
+          "Küçük",
+          "Bakteri",
+          "Bakmak",
+          "Laboratuvar"
+        ]
+      },
+      {
+        "hedef": "BİYOLOJİ",
+        "yasakli": [
+          "Canlı",
+          "Ders",
+          "Hücre",
+          "İnsan",
+          "Yaşam"
+        ]
+      },
+      {
+        "hedef": "DÜNYA",
+        "yasakli": [
+          "Gezegen",
+          "Yaşam",
+          "Yuvarlak",
+          "Kıta",
+          "Su"
+        ]
+      },
+      {
+        "hedef": "LABORATUVAR",
+        "yasakli": [
+          "Deney",
+          "Kimya",
+          "Mikroskop",
+          "Bakteri",
+          "Bilim"
+        ]
+      },
+      {
+        "hedef": "GEZEGEN",
+        "yasakli": [
+          "Uzay",
+          "Dünya",
+          "Mars",
+          "Güneş",
+          "Sistem"
+        ]
+      },
+      {
+        "hedef": "TELESKOP",
+        "yasakli": [
+          "Yıldız",
+          "Gezegen",
+          "Bakmak",
+          "Uzay",
+          "Büyütmek"
+        ]
+      },
+      {
+        "hedef": "DENEY",
+        "yasakli": [
+          "Laboratuvar",
+          "Tüp",
+          "Kimya",
+          "Bilim",
+          "Yapmak"
+        ]
+      },
+      {
+        "hedef": "FİZİK",
+        "yasakli": [
+          "Ders",
+          "Bilim",
+          "Newton",
+          "Einstein",
+          "Kural"
+        ]
+      },
+      {
+        "hedef": "TİYATRO",
+        "yasakli": [
+          "Sahne",
+          "Oyuncu",
+          "Oyun",
+          "Perde",
+          "Alkış"
+        ]
+      },
+      {
+        "hedef": "MATEMATİK",
+        "yasakli": [
+          "Sayı",
+          "Toplama",
+          "İşlem",
+          "Hesap",
+          "Problem"
+        ]
+      },
+      {
+        "hedef": "ŞARKI",
+        "yasakli": [
+          "Söylemek",
+          "Müzik",
+          "Ses",
+          "Dinlemek",
+          "Radyo"
+        ]
+      },
+      {
+        "hedef": "RESSAM",
+        "yasakli": [
+          "Boyamak",
+          "Fırça",
+          "Tablo",
+          "Tuval",
+          "Sanat"
+        ]
+      },
+      {
+        "hedef": "TABLO",
+        "yasakli": [
+          "Resim",
+          "Duvar",
+          "Çerçeve",
+          "Ressam",
+          "Asmak"
+        ]
+      },
+      {
+        "hedef": "YERÇEKİMİ",
+        "yasakli": [
+          "Newton",
+          "Elma",
+          "Düşmek",
+          "Dünya",
+          "Fizik"
+        ]
+      },
+      {
+        "hedef": "NOTA",
+        "yasakli": [
+          "Müzik",
+          "Okumak",
+          "Kağıt",
+          "Ses",
+          "Do"
+        ]
+      },
+      {
+        "hedef": "EİNSTEİN",
+        "yasakli": [
+          "Fizik",
+          "Zeki",
+          "Görelilik",
+          "Bilim",
+          "Saç"
+        ]
+      },
+      {
+        "hedef": "KARA_DELİK",
+        "yasakli": [
+          "Uzay",
+          "Çekmek",
+          "Yutmak",
+          "Karanlık",
+          "Büyük"
+        ]
+      },
+      {
+        "hedef": "KEMAN",
+        "yasakli": [
+          "Yay",
+          "Çalmak",
+          "Müzik",
+          "Omuz",
+          "Enstrüman"
+        ]
+      },
+      {
+        "hedef": "FIRÇA",
+        "yasakli": [
+          "Boya",
+          "Resim",
+          "Ressam",
+          "Tuval",
+          "Sanat"
+        ]
+      },
+      {
+        "hedef": "YILDIZ",
+        "yasakli": [
+          "Gökyüzü",
+          "Gece",
+          "Parlamak",
+          "Kayan",
+          "Uzay"
+        ]
+      },
+      {
+        "hedef": "KİMYA",
+        "yasakli": [
+          "Ders",
+          "Bilim",
+          "Laboratuvar",
+          "Element",
+          "Deney"
+        ]
+      },
+      {
+        "hedef": "PUSULA",
+        "yasakli": [
+          "Yön",
+          "Kuzey",
+          "Gemi",
+          "Bulmak",
+          "Harita"
+        ]
+      },
+      {
+        "hedef": "MARS",
+        "yasakli": [
+          "Kırmızı",
+          "Gezegen",
+          "Uzay",
+          "Dünya",
+          "Komşu"
+        ]
+      },
+      {
+        "hedef": "AY",
+        "yasakli": [
+          "Gece",
+          "Gökyüzü",
+          "Dünya",
+          "Uydu",
+          "Parladı"
+        ]
+      },
+      {
+        "hedef": "PİYANO",
+        "yasakli": [
+          "Tuş",
+          "Siyah Beyaz",
+          "Çalmak",
+          "Müzik",
+          "Enstrüman"
+        ]
+      },
+      {
+        "hedef": "BİLİM",
+        "yasakli": [
+          "Laboratuvar",
+          "Deney",
+          "Keşfetmek",
+          "İcat",
+          "Zeki"
+        ]
+      }
+    ]
+  }
+]
